@@ -1,0 +1,93 @@
+.introduction1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.introduction,
+.what-are-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.what-are-cookies {
+  line-height: 29px;
+  font-weight: 400;
+}
+.cookies-are-small {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.paragraph-columns {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.giftnest-uses-cookies,
+.why-we-use {
+  align-self: stretch;
+  position: relative;
+}
+.why-we-use {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftnest-uses-cookies {
+  font-size: 16px;
+  line-height: 135%;
+}
+.policy-details {
+  align-self: stretch;
+  gap: 16px;
+}
+.introduction-parent,
+.paragraph-columns-parent,
+.policy-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraph-columns-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.introduction-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 900px) {
+  .introduction {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .introduction-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .introduction,
+  .what-are-cookies,
+  .why-we-use {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

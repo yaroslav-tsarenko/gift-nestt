@@ -1,0 +1,84 @@
+.moneyMotivationamicoIcon {
+  height: 163px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 60px 0 59px;
+}
+.earnGiftnestPoints,
+.saveMoneyWith {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.earnGiftnestPoints {
+  margin: 0;
+  align-self: stretch;
+  height: 63px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.saveMoneyWith {
+  height: 66px;
+  flex: 1;
+  line-height: 135%;
+}
+.container2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px 49.6px;
+  text-align: left;
+  font-size: 16px;
+}
+.button {
+  align-self: stretch;
+  flex: 1;
+}
+.container,
+.container3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.container3 {
+  align-self: stretch;
+  height: 54px;
+  flex-direction: row;
+  padding: 0 71px;
+}
+.container {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 16px;
+  gap: 16px;
+  min-width: 208px;
+  text-align: center;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: "Circular Std";
+}
+@media screen and (max-width: 450px) {
+  .earnGiftnestPoints {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

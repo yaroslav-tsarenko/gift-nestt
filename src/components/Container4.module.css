@@ -1,0 +1,18 @@
+.containerChild {
+  position: absolute;
+  top: 72.1px;
+  left: 1263.7px;
+  width: 7px;
+  height: 8.6px;
+  z-index: 2;
+}
+.container {
+  align-self: stretch;
+  height: 176px;
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Circular Std";
+}

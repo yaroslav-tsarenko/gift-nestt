@@ -1,0 +1,141 @@
+.how-we-use-cookies {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.how-we-use-container,
+.website-functionality {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.website-functionality {
+  line-height: 29px;
+  font-weight: 400;
+}
+.cookies-enable-the {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.usage-categories {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.performance-monitoring {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-use-cookies {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.usage-categories1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.cookies-allow-us,
+.user-experience {
+  align-self: stretch;
+  position: relative;
+}
+.user-experience {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.cookies-allow-us {
+  font-size: 16px;
+  line-height: 135%;
+}
+.usage-categories2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.advertising-and-marketing {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-use-cookies1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.usage-categories3 {
+  align-self: stretch;
+  gap: 16px;
+}
+.cookie-usage-content,
+.how-we-use-cookies-parent,
+.usage-categories3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cookie-usage-content {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.how-we-use-cookies-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 900px) {
+  .how-we-use-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .how-we-use-cookies-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .advertising-and-marketing,
+  .how-we-use-container,
+  .performance-monitoring,
+  .user-experience,
+  .website-functionality {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

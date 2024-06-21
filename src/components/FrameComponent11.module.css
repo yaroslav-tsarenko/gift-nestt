@@ -1,0 +1,309 @@
+.horizontalDivider,
+.horizontalDivider1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f24452;
+  width: 25px;
+  height: 2px;
+}
+.horizontalDivider1 {
+  top: 16px;
+}
+.horizontalDividerParent {
+  width: 25px;
+  height: 18px;
+  position: relative;
+}
+.logoContainerInner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.5px 0 0;
+}
+.logoGiftnest {
+  height: 43px;
+  width: 168px;
+  position: relative;
+  object-fit: cover;
+}
+.logoContainer {
+  width: 241px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  cursor: pointer;
+}
+.buyGiftCards {
+  align-self: stretch;
+  height: 16px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menuItems {
+  width: 132px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.buyForBusiness,
+.promos {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buyForBusiness {
+  width: 135px;
+  line-height: 22px;
+}
+.promos {
+  align-self: stretch;
+  height: 16px;
+  line-height: 120%;
+  flex-shrink: 0;
+}
+.menuItems1 {
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.buyWithCrypto {
+  align-self: stretch;
+  height: 16px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.menuItems2 {
+  width: 184px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.menuButtons,
+.menuItems2,
+.navigation {
+  display: flex;
+  align-items: flex-start;
+}
+.menuButtons {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.navigation {
+  width: 761px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frameChild {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.languageItemsInner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+}
+.unitedStates {
+  flex: 1;
+  position: relative;
+  line-height: 21px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 89.3px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.languageItems,
+.locationItems {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.languageItems {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 8px;
+}
+.locationItems {
+  width: 115.3px;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+  box-sizing: border-box;
+}
+.frameItem {
+  cursor: pointer;
+  margin: 0;
+  width: 15.7px;
+  height: 15.7px;
+  position: relative;
+}
+.frameWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.6px;
+}
+.en {
+  position: relative;
+  line-height: 21px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 20px;
+}
+.frameParent,
+.locationItems1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.frameParent {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 4.1px;
+}
+.locationItems1 {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3.5px 0 0;
+}
+.frameInner {
+  cursor: pointer;
+  margin: 0;
+  width: 22px;
+  height: 22.5px;
+  position: relative;
+}
+.accountInner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.7px;
+}
+.myAccount {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.account {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9px;
+  min-width: 88px;
+  font-size: 18px;
+  color: #424242;
+  font-family: "Circular Std";
+}
+.unknownChild {
+  width: 24px;
+  height: 23.3px;
+  position: relative;
+}
+.locationLanguageItems,
+.unknown {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.unknown {
+  flex-direction: column;
+  padding: 2.3px 0 0;
+}
+.locationLanguageItems {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+}
+.locationLanguage,
+.logoDivider,
+.logoDividerWrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.locationLanguage {
+  width: 387.1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 7.5px 0 0;
+  font-size: 14px;
+  font-family: "Kumbh Sans";
+}
+.logoDivider,
+.logoDividerWrapper {
+  flex-direction: row;
+}
+.logoDivider {
+  width: 1678px;
+  justify-content: space-between;
+  padding: 16px 0;
+  gap: 20px;
+}
+.logoDividerWrapper {
+  flex: 1;
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px rgba(0, 0, 0, 0.14),
+    0 1px 10px rgba(0, 0, 0, 0.12);
+  background-color: #fff;
+  overflow: hidden;
+  justify-content: center;
+  padding: 21px 20px;
+  text-align: center;
+  font-size: 18px;
+  color: #5a5a5a;
+  font-family: "Circular Std";
+}
+@media screen and (max-width: 1500px) {
+  .logoDivider {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .menuButtons {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .locationLanguageItems {
+    flex-wrap: wrap;
+  }
+}

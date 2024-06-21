@@ -1,0 +1,370 @@
+.content-wrapper-child {
+  height: 43px;
+  width: 62px;
+  position: relative;
+}
+.buy-a-100 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+}
+.bonus-card-promo,
+.content-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bonus-card-promo {
+  flex: 1;
+  flex-direction: column;
+  padding: 11px 0 0;
+  min-width: 429px;
+}
+.content-wrapper {
+  align-self: stretch;
+  background-color: #263238;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 8px 575px;
+  gap: 48px;
+}
+.horizontal-divider,
+.horizontal-divider1 {
+  position: absolute;
+  left: 0;
+  background-color: #f24452;
+  width: 25px;
+  height: 2px;
+}
+.horizontal-divider {
+  top: 0;
+}
+.horizontal-divider1 {
+  bottom: 0;
+}
+.horizontal-divider-parent {
+  width: 25px;
+  height: 18px;
+  position: relative;
+}
+.brand-logo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.5px 0 0;
+}
+.logo-giftnest {
+  height: 43px;
+  width: 168px;
+  position: relative;
+  object-fit: cover;
+}
+.nav-content {
+  width: 241px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.buy-gift-cards {
+  align-self: stretch;
+  height: 16px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.menu-links {
+  width: 132px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.buy-for-business,
+.promos {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.buy-for-business {
+  width: 135px;
+  line-height: 22px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.promos {
+  align-self: stretch;
+  height: 16px;
+  line-height: 120%;
+  flex-shrink: 0;
+}
+.menu-links1 {
+  width: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.buy-with-crypto {
+  align-self: stretch;
+  height: 16px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.menu-links2 {
+  width: 184px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+  box-sizing: border-box;
+}
+.menu-links2,
+.menu-options,
+.menu-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.menu-options {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.menu-wrapper {
+  width: 761px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.account-credentials-child {
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.account-credentials {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+}
+.united-states {
+  flex: 1;
+  position: relative;
+  line-height: 21px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 89.3px;
+  white-space: nowrap;
+}
+.account-language,
+.region-selector {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.account-language {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 8px;
+}
+.region-selector {
+  width: 115.4px;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+  box-sizing: border-box;
+}
+.frame-child {
+  cursor: pointer;
+  margin: 0;
+  width: 15.7px;
+  height: 15.7px;
+  position: relative;
+}
+.frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.6px;
+}
+.en {
+  position: relative;
+  line-height: 21px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 20px;
+}
+.group-div,
+.region-selector1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.group-div {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 4.1px;
+}
+.region-selector1 {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 3.5px 0 0;
+}
+.account-button-child {
+  cursor: pointer;
+  margin: 0;
+  width: 22px;
+  height: 22.5px;
+  position: relative;
+}
+.account-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 2.7px;
+}
+.my-account {
+  height: 28px;
+  flex: 1;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.user-account {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9px;
+  font-size: 18px;
+  color: #424242;
+  font-family: "Circular Std";
+}
+.notification-icon-child {
+  width: 24px;
+  height: 23.3px;
+  position: relative;
+}
+.account-region-options,
+.notification-icon {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.notification-icon {
+  flex-direction: column;
+  padding: 2.3px 0 0;
+}
+.account-region-options {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 24px;
+}
+.account-region,
+.navigation-bar {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.account-region {
+  width: 387.1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 7.5px 0 0;
+  font-size: 14px;
+  font-family: "Kumbh Sans";
+}
+.navigation-bar {
+  width: 1678px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 0;
+  gap: 20px;
+}
+.content-wrapper-parent,
+.navigation-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+  text-align: center;
+  font-family: "Circular Std";
+}
+.navigation-wrapper {
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px rgba(0, 0, 0, 0.14),
+    0 1px 10px rgba(0, 0, 0, 0.12);
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: 21px 20px;
+  box-sizing: border-box;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  font-size: 18px;
+  color: #5a5a5a;
+}
+.content-wrapper-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #fff;
+}
+@media screen and (max-width: 1625px) {
+  .bonus-card-promo {
+    min-width: 100%;
+  }
+  .menu-options {
+    display: none;
+  }
+  .menu-wrapper {
+    width: 0;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .content-wrapper {
+    padding-left: 287px;
+    padding-right: 287px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .content-wrapper {
+    gap: 24px;
+    padding-left: 143px;
+    padding-right: 143px;
+    box-sizing: border-box;
+  }
+}

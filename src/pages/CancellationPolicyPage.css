@@ -1,0 +1,347 @@
+.cancellation-policy,
+.please-refer-to {
+  width: 1680px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.cancellation-policy {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.please-refer-to {
+  font-size: 16px;
+  line-height: 22px;
+}
+.cancellation-policy-parent {
+  align-self: stretch;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 10px;
+  max-width: 100%;
+}
+.lilylamb-kids-we1 {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.general-cancellation-policy {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.eligibility-for-cancellation,
+.general-cancellation-policy-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.eligibility-for-cancellation {
+  line-height: 29px;
+  font-weight: 400;
+}
+.you-may-cancel {
+  margin: 0;
+}
+.the-cancellation-request,
+.the-esim-has {
+  margin-bottom: 0;
+}
+.the-cancellation-request-is-ma {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.you-may-cancel-container {
+  align-self: stretch;
+  height: 110px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+}
+.eligibility-for-cancellation-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.non-cancellable-situations {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.cancellations-will-not {
+  margin: 0;
+}
+.the-cancellation-request1,
+.the-esim-has1,
+.the-esim-plan {
+  margin-bottom: 0;
+}
+.the-esim-has-already-been-acti {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.cancellations-will-not-container {
+  align-self: stretch;
+  height: 132px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+}
+.non-cancellable-situations-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-parent,
+.general-cancellation-policy-parent,
+.non-cancellable-situations-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.general-cancellation-policy-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.how-to-request-a-cancellation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.contact-customer-support,
+.how-to-request-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.contact-customer-support {
+  line-height: 29px;
+  font-weight: 400;
+}
+.any-supporting-documentation,
+.blank-line,
+.order-number-and,
+.reason-for-the,
+.to-request-a,
+.your-name-and {
+  margin: 0;
+}
+.to-request-a-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.contact-customer-support-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.cancellation-request-review {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.our-customer-support {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.cancellation-request-review-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.cancellation-request-review-parent,
+.frame-group,
+.how-to-request-a-cancellation-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.how-to-request-a-cancellation-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information2,
+.contact-information3 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information3 {
+  padding-left: 43px;
+}
+.contact-information2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.address-123-main1,
+.blank-line1,
+.email-supportgiftnestcom1,
+.giftnest-customer-support1,
+.if-you-have1,
+.phone-1-800-123-45671 {
+  margin: 0;
+}
+.if-you-have-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.contact-information-group {
+  width: 1120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cancellationpolicypage,
+.lilylamb-kids-we-us-or-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.lilylamb-kids-we-us-or-parent {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.cancellationpolicypage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1275px) {
+  .lilylamb-kids-we-us-or-parent {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .cancellation-policy {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .general-cancellation-policy-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .general-cancellation-policy-parent {
+    gap: 16px;
+  }
+  .how-to-request-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .how-to-request-a-cancellation-parent {
+    gap: 16px;
+  }
+  .contact-information2 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-information-group {
+    gap: 16px;
+  }
+  .lilylamb-kids-we-us-or-parent {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellation-policy {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .cancellation-request-review,
+  .contact-customer-support,
+  .contact-information2,
+  .eligibility-for-cancellation,
+  .general-cancellation-policy-container,
+  .how-to-request-container,
+  .non-cancellable-situations {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .lilylamb-kids-we-us-or-parent {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

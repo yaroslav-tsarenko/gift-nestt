@@ -1,0 +1,250 @@
+.giftCardpanaIcon {
+  width: 375.5px;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.giftnestRewards {
+  color: #f24465;
+}
+.orderGiftCards,
+.theGiftCardContainer {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-family: inherit;
+}
+.theGiftCardContainer {
+  height: 212px;
+  font-size: inherit;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+}
+.orderGiftCards {
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+}
+.button {
+  width: 241px;
+  height: 54px;
+}
+.rewardsImage,
+.rewardsProgramDescription {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rewardsProgramDescription {
+  width: 508.5px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+  min-width: 508.5px;
+}
+.rewardsImage {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 7px 0 6px;
+  box-sizing: border-box;
+  gap: 20px;
+}
+.frameChild {
+  width: 360px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.groupGiftsMade,
+.setUpAGroup {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+  font-family: inherit;
+}
+.groupGiftsMade {
+  width: 524px;
+  height: 106px;
+  font-size: inherit;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  max-width: 104%;
+  flex-shrink: 0;
+}
+.setUpAGroup {
+  align-self: stretch;
+  font-size: 24px;
+  line-height: 120%;
+}
+.button1 {
+  width: 241px;
+  height: 54px;
+}
+.frameParent,
+.groupGiftsMadeSimpleParent {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.groupGiftsMadeSimpleParent {
+  width: 505px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0;
+  gap: 24px;
+  min-width: 505px;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 16px;
+  gap: 20px;
+}
+.frameItem {
+  width: 418px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.giveTheGift {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.cards,
+.withTheGiftnest {
+  margin: 0;
+}
+.withTheGiftnestContainer {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.button2 {
+  width: 241px;
+  height: 54px;
+}
+.choiceCardDescription {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  min-width: 337px;
+}
+.choiceCardDescription,
+.frameGroup,
+.rewardsImageParent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 80px;
+}
+.rewardsImageParent {
+  width: 1017px;
+  margin: 0 !important;
+  position: absolute;
+  top: 2705.2px;
+  left: 451.5px;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 134px;
+  text-align: left;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: "Circular Std";
+}
+@media screen and (max-width: 1050px) {
+  .giftCardpanaIcon {
+    flex: 1;
+  }
+  .theGiftCardContainer {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .rewardsProgramDescription {
+    flex: 1;
+  }
+  .rewardsImage {
+    flex-wrap: wrap;
+  }
+  .frameChild {
+    flex: 1;
+  }
+  .groupGiftsMade {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .groupGiftsMadeSimpleParent {
+    flex: 1;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+  .frameItem {
+    flex: 1;
+  }
+  .giveTheGift {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frameGroup {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .groupGiftsMadeSimpleParent,
+  .rewardsProgramDescription {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .theGiftCardContainer {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .orderGiftCards {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .groupGiftsMade {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .setUpAGroup {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .giveTheGift {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .withTheGiftnestContainer {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .choiceCardDescription {
+    min-width: 100%;
+  }
+}

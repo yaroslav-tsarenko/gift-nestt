@@ -1,0 +1,405 @@
+.cookie-policy {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.cookie-policy-title {
+  align-self: stretch;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lilylamb-kids-we {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.types-of-cookies-we-use {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.essential-cookies,
+.types-of-cookies-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.essential-cookies {
+  line-height: 29px;
+  font-weight: 400;
+}
+.these-cookies-are {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.cookie-categories {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.performance-and-analytics {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-cookies-collect {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.cookie-categories1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.functionality-cookies {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.functionality-cookies-allow {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.cookie-categories2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.targeting-and-advertising {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.these-cookies-are1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.cookie-categories3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.third-party-cookies,
+.we-may-allow {
+  align-self: stretch;
+  position: relative;
+}
+.third-party-cookies {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-may-allow {
+  font-size: 16px;
+  line-height: 135%;
+}
+.cookie-categories4 {
+  align-self: stretch;
+  gap: 16px;
+}
+.cookie-categories4,
+.cookie-types-content,
+.types-of-cookies-we-use-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cookie-types-content {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.types-of-cookies-we-use-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.privacy-policy1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.integration-with-privacy,
+.privacy-policy {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.integration-with-privacy {
+  line-height: 29px;
+  font-weight: 400;
+}
+.this-cookie-policy {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.integration-with-privacy-polic-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.integration-with-privacy-polic-parent,
+.privacy-policy-link,
+.privacy-policy-link-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.privacy-policy-link-inner {
+  align-self: stretch;
+  font-size: 24px;
+}
+.privacy-policy-link {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.changes-to-this-policy {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.changes-to-this-container {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.changes-to-this-container,
+.policy-updates,
+.we-may-update {
+  align-self: stretch;
+  position: relative;
+}
+.policy-updates {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-may-update {
+  font-size: 16px;
+  line-height: 135%;
+}
+.policy-changes,
+.policy-updates-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.policy-updates-parent {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.policy-changes {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information,
+.contact-information1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information1 {
+  padding-left: 43px;
+}
+.contact-information {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.address-123-main,
+.email-supportgiftnestcom,
+.giftnest-customer-support,
+.if-you-have,
+.phone-1-800-123-4567 {
+  margin: 0;
+}
+.if-you-have-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.contact-information-parent {
+  width: 1120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cookiepolicypage,
+.policy-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.policy-content {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.cookiepolicypage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1275px) {
+  .policy-content {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .cookie-policy {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .types-of-cookies-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .types-of-cookies-we-use-parent {
+    gap: 16px;
+  }
+  .privacy-policy {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .privacy-policy-link {
+    gap: 16px;
+  }
+  .changes-to-this-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .policy-changes {
+    gap: 16px;
+  }
+  .contact-information {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-information-parent {
+    gap: 16px;
+  }
+  .policy-content {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cookie-policy {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .changes-to-this-container,
+  .contact-information,
+  .essential-cookies,
+  .functionality-cookies,
+  .integration-with-privacy,
+  .performance-and-analytics,
+  .policy-updates,
+  .privacy-policy,
+  .targeting-and-advertising,
+  .third-party-cookies,
+  .types-of-cookies-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .policy-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

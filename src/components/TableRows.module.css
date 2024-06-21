@@ -1,0 +1,122 @@
+.payByCredit {
+  width: 243.7px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.cell,
+.cell1,
+.cellIcon {
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.cell {
+  flex: 1;
+  background-color: #012e71;
+  border-top: 1px solid #dee2e6;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 20px 12.5px 21px;
+  min-width: 244px;
+  max-width: 100%;
+  z-index: 6;
+}
+.cell1,
+.cellIcon {
+  height: 49px;
+  width: 208.1px;
+  position: relative;
+  margin-left: -0.1px;
+}
+.cell1 {
+  border-top: 1px solid #dee2e6;
+  box-sizing: border-box;
+  z-index: 7;
+}
+.cellIcon {
+  min-height: 49px;
+  z-index: 8;
+}
+.cellParent,
+.reportingAndOrder {
+  display: flex;
+  justify-content: center;
+}
+.cellParent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  max-width: 100%;
+  row-gap: 20px;
+}
+.reportingAndOrder {
+  width: 223.8px;
+  position: relative;
+  line-height: 24px;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cell2,
+.cell3,
+.cellIcon1 {
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.cell2 {
+  flex: 1;
+  background-color: #012e71;
+  border-top: 1px solid #dee2e6;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 11px 20px 12.5px 21px;
+  min-width: 224px;
+  max-width: 100%;
+  z-index: 8;
+}
+.cell3,
+.cellIcon1 {
+  height: 49px;
+  width: 208.1px;
+  position: relative;
+  margin-left: -0.1px;
+}
+.cell3 {
+  border-top: 1px solid #dee2e6;
+  box-sizing: border-box;
+  z-index: 9;
+}
+.cellIcon1 {
+  min-height: 49px;
+  z-index: 10;
+}
+.cellGroup,
+.tableRows {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.cellGroup {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 20px;
+}
+.tableRows {
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: "Circular Std";
+}

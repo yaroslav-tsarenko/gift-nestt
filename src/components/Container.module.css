@@ -1,0 +1,88 @@
+.containerChild {
+  height: 163px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.container1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+}
+.buyGiftCards {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.container2,
+.shopFrom300 {
+  align-self: stretch;
+  display: flex;
+}
+.container2 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 32px;
+}
+.shopFrom300 {
+  height: 88px;
+  position: relative;
+  line-height: 135%;
+  align-items: center;
+}
+.button {
+  align-self: stretch;
+  flex: 1;
+}
+.bitcoinDescription,
+.container,
+.shopWithBitcoinButton {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shopWithBitcoinButton {
+  align-self: stretch;
+  height: 54px;
+  flex-direction: row;
+  padding: 0 54px;
+  box-sizing: border-box;
+}
+.bitcoinDescription,
+.container {
+  flex-direction: column;
+}
+.bitcoinDescription {
+  align-self: stretch;
+  gap: 49px;
+  text-align: left;
+  font-size: 16px;
+}
+.container {
+  width: 285px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 16px;
+  background-color: #fff;
+  padding: 16px;
+  box-sizing: border-box;
+  gap: 16px;
+  text-align: center;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: "Circular Std";
+}
+@media screen and (max-width: 450px) {
+  .buyGiftCards {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

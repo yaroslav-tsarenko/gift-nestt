@@ -1,0 +1,91 @@
+.amendments-to-cancellation-pol {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.amendments-to-cancellation-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 32px;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.changes-to-policy,
+.we-reserve-the {
+  align-self: stretch;
+  position: relative;
+}
+.changes-to-policy {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-reserve-the {
+  font-size: 16px;
+  line-height: 135%;
+}
+.changes-to-policy-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.effective-date {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.this-cancellation-policy {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.amendments-to-cancellation-pol-parent,
+.effective-date-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.effective-date-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.amendments-to-cancellation-pol-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+@media screen and (max-width: 900px) {
+  .amendments-to-cancellation-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .amendments-to-cancellation-pol-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .amendments-to-cancellation-container,
+  .changes-to-policy,
+  .effective-date {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

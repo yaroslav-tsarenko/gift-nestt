@@ -1,0 +1,64 @@
+.mainChild {
+  height: 43px;
+  width: 62px;
+  position: relative;
+}
+.buyA100 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.bonusCard {
+  width: 660px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 11px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bonusCard,
+.businesspage,
+.main {
+  display: flex;
+  align-items: flex-start;
+}
+.main {
+  align-self: stretch;
+  background-color: #263238;
+  flex-direction: row;
+  justify-content: center;
+  padding: 8px 20px;
+  box-sizing: border-box;
+  gap: 48px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  font-family: "Circular Std";
+}
+.businesspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 825px) {
+  .bonusCard {
+    display: none;
+  }
+}
+@media screen and (max-width: 450px) {
+  .main {
+    gap: 24px;
+  }
+}

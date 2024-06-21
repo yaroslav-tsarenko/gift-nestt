@@ -1,0 +1,967 @@
+.heading1 {
+  margin: 0;
+  width: 277px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 500;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.heading1DominosEgiftCaWrapper {
+  width: 1045px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 32px;
+}
+.buttonIcon {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 48px;
+}
+.recipientLabel,
+.toLabel {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.recipientLabel {
+  margin: 0;
+  height: 42px;
+  width: 14.9px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 14.9px;
+}
+.toLabel {
+  align-self: stretch;
+  line-height: 29px;
+  display: inline-block;
+  min-width: 62px;
+}
+.recipientNameInput {
+  width: 62px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 5.5px;
+  box-sizing: border-box;
+  color: #1c1c1c;
+}
+.recipientLabelParent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.containerInner {
+  width: 156.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.horizontalDivider {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-bottom: 1px solid #d9d9d9;
+  box-sizing: border-box;
+}
+.container {
+  flex: 1;
+  border-radius: 4px 4px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  gap: 3px;
+  min-width: 154px;
+  z-index: 1;
+}
+.buttonIcon1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  border-radius: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 48px;
+}
+.buttonParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.9px;
+}
+.to100 {
+  width: 116px;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 116px;
+}
+.frameGroup,
+.toRecipientLabel {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.toRecipientLabel {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 22px 0 20px;
+  font-size: 14px;
+}
+.frameGroup {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.tagIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button1 {
+  width: 19px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 19px;
+  white-space: nowrap;
+}
+.tagIcon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button {
+  flex: 1;
+  border-radius: 96px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 14px 31px;
+  gap: 16px;
+  min-width: 19px;
+}
+.button2,
+.button3 {
+  height: 54px;
+  flex: 1;
+  min-width: 69px;
+}
+.deliveryBtnRow {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.tagIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button5 {
+  width: 35px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 35px;
+  white-space: nowrap;
+}
+.tagIcon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button4,
+.deliveryBtnRowParent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.button4 {
+  width: 82px;
+  border-radius: 96px;
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 14px 22px;
+}
+.deliveryBtnRowParent {
+  flex: 1;
+  flex-direction: column;
+}
+.frameWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 16px 0 18px;
+  font-size: 16px;
+  color: #f24452;
+}
+.frameParent {
+  width: 348.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 15px;
+  max-width: 100%;
+}
+.purchaseOptions {
+  width: 1044.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  color: #5a5a5a;
+}
+.svgIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.membersWillEarn {
+  flex: 1;
+  position: relative;
+  line-height: 22.9px;
+  display: inline-block;
+  max-width: calc(100% - 34px);
+}
+.backgroundshadowInner,
+.svgParent {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.svgParent {
+  width: 358px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 9.8px;
+}
+.backgroundshadowInner {
+  width: 1046.3px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #357a38;
+}
+.fedexPromotion,
+.svgIcon1 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+}
+.fedexPromotion {
+  width: 158px;
+  border: 0;
+  outline: 0;
+  font-weight: 300;
+  font-family: "Kumbh Sans";
+  font-size: 18px;
+  background-color: transparent;
+  height: 26px;
+  line-height: 25.72px;
+  color: #1c1c1c;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+.backgroundhorizontalborder {
+  align-self: stretch;
+  border-radius: 7px 7px 0 0;
+  background-color: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.7px 16px 18px;
+  gap: 20px;
+}
+.buyA25,
+.ship24 {
+  margin: 0;
+}
+.buyA25Container {
+  position: relative;
+  line-height: 135%;
+}
+.giftnestPointsAre,
+.limitedTo5,
+.morePleaseSelect,
+.offerEnds53124,
+.only25Cards,
+.promoIsOnly,
+.rewardsExpressOr {
+  margin: 0;
+}
+.itemLimitedContainer {
+  position: relative;
+  line-height: 135%;
+  color: #424242;
+}
+.promoDescription,
+.promoDescriptionWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.promoDescription {
+  flex-direction: column;
+  gap: 12px;
+}
+.promoDescriptionWrapper {
+  flex-direction: row;
+  padding: 0 38px;
+  box-sizing: border-box;
+}
+.item {
+  width: 419px;
+  height: 48px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.backgroundshadow1,
+.backgroundshadowWrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.backgroundshadow1 {
+  width: 523px;
+  box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px rgba(0, 0, 0, 0.14),
+    0 1px 5px rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 65.7px;
+  gap: 34px;
+}
+.backgroundshadowWrapper {
+  width: 1045px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: left;
+  font-size: 16px;
+}
+.button6 {
+  align-self: stretch;
+  height: 54px;
+}
+.button7 {
+  width: 177px;
+  height: 54px;
+}
+.buttonGroup {
+  width: 181px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.frameDiv {
+  width: 1045px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.separator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 22.5px;
+  max-width: 100%;
+}
+.frameChild,
+.heading2 {
+  height: 100.2px;
+  width: 270px;
+  position: relative;
+}
+.heading2 {
+  margin: 0;
+  width: 265.8px;
+  height: 40px;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.andOrganizations,
+.buyFedexGift {
+  margin: 0;
+}
+.buyFedexGiftContainer {
+  align-self: stretch;
+  height: 51.4px;
+  position: relative;
+  font-size: 18px;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.businessDescContent,
+.businessDescContentWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.businessDescContent {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 16.2px;
+}
+.businessDescContentWrapper {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 4.7px;
+  box-sizing: border-box;
+  min-width: 318px;
+  max-width: 100%;
+}
+.frameParent2 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 58px;
+  min-width: 532px;
+  max-width: 100%;
+}
+.button8 {
+  align-self: stretch;
+  height: 54px;
+  box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.2), 0 4px 5px rgba(0, 0, 0, 0.14),
+    0 1px 10px rgba(0, 0, 0, 0.12);
+}
+.buttonWrapper,
+.frameParent1 {
+  width: 165px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 23.1px;
+  box-sizing: border-box;
+}
+.frameParent1 {
+  width: 1054.6px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 12.1px;
+  gap: 71.4px;
+  max-width: 100%;
+  text-align: left;
+}
+.separator1 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+.svgIcon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.description {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.svgGroup {
+  width: 165px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.svgIcon3 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.svgWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.validForUse {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 174px;
+}
+.descriptionImageInner,
+.frameParent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent4 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 12px;
+}
+.descriptionImageInner {
+  width: 298px;
+  flex-direction: column;
+  padding: 3.5px 0 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.descriptionImage,
+.descriptionImageWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.descriptionImage {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.descriptionImageWrapper {
+  width: 1000px;
+  justify-content: flex-start;
+  padding: 0 0 2.3px;
+  box-sizing: border-box;
+}
+.wwwfedexcom,
+.wwwfedexcom1 {
+  color: inherit;
+}
+.fedexIsMoreContainer1 {
+  width: 100%;
+}
+.fedexIsMoreContainer {
+  width: 1015px;
+  height: 72px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #5a5a5a;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.fedex,
+.forMoreInformation {
+  position: relative;
+  line-height: 24px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.forMoreInformation {
+  flex: 1;
+}
+.fedex {
+  width: 79.8px;
+  color: #0a6ecc;
+  display: flex;
+  align-items: center;
+}
+.websiteLink {
+  width: 279.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.3px;
+}
+.fedexEgiftCards {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+}
+.websiteLinkParent {
+  width: 382.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 16.3px;
+  box-sizing: border-box;
+  gap: 16px;
+  max-width: 100%;
+  font-size: 16px;
+  color: #5a5a5a;
+}
+.lineIcons {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.lineIconsWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.5px 0 0;
+}
+.giftCardBalance {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 31px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 189px;
+}
+.balanceCheckContainer {
+  width: 328px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+  max-width: 100%;
+}
+.checkTheBalance {
+  margin-right: -7.1px;
+  width: 203.5px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.checkTheBalanceOnYourWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.fedexEgiftCard {
+  width: 162.5px;
+  position: relative;
+  line-height: 24px;
+  color: #0a6ecc;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.balanceCheckLink,
+.cardBalanceCheck {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardBalanceCheck {
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  font-size: 16px;
+  color: #5a5a5a;
+}
+.balanceCheckLink {
+  flex-direction: column;
+  padding: 0 0 16.3px;
+  box-sizing: border-box;
+  gap: 17px;
+  max-width: 100%;
+}
+.svgIcon4 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.svgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.8px 0 0;
+}
+.spreadTheWord {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 31px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.spreadWordContainer {
+  width: 234px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.spreadWordLinkChild {
+  align-self: stretch;
+  height: 32px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.spreadWordLink {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 16.3px;
+  box-sizing: border-box;
+  gap: 17px;
+}
+.fedexTerms {
+  width: 171.4px;
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.wwwfedexcom3 {
+  text-decoration: underline;
+}
+.wwwfedexcom2 {
+  color: inherit;
+}
+.wwwfedexcom5 {
+  text-decoration: underline;
+}
+.wwwfedexcom4 {
+  color: inherit;
+}
+.usableUpToContainer1 {
+  width: 100%;
+}
+.usableUpToContainer {
+  width: 1004.9px;
+  height: 108px;
+  position: relative;
+  line-height: 18px;
+  font-weight: 300;
+  font-family: Poppins;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.backgroundshadow,
+.frameParent3,
+.paragraphbackgroundborder {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.paragraphbackgroundborder {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  box-sizing: border-box;
+  padding: 31px 20px 32px 33px;
+  gap: 8px;
+  font-size: 12px;
+  font-family: "Kumbh Sans";
+}
+.backgroundshadow,
+.frameParent3 {
+  gap: 15.7px;
+  text-align: left;
+}
+.backgroundshadow {
+  border-radius: 0 0 8px 8px;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-end;
+  padding: 72.5px 47px 39.3px 17px;
+  box-sizing: border-box;
+  gap: 31.5px;
+  text-align: center;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: "Circular Std";
+}
+@media screen and (max-width: 1275px) {
+  .frameParent1 {
+    gap: 36px;
+  }
+  .backgroundshadow {
+    padding-top: 31px;
+    padding-right: 23px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .backgroundshadow1 {
+    gap: 17px;
+  }
+  .frameChild {
+    flex: 1;
+  }
+  .frameParent2 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .frameParent1 {
+    gap: 18px;
+  }
+  .descriptionImage {
+    flex-wrap: wrap;
+  }
+  .backgroundshadow {
+    gap: 16px;
+    padding-top: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading1,
+  .recipientLabel,
+  .toLabel {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .backgroundhorizontalborder {
+    flex-wrap: wrap;
+  }
+  .backgroundshadow1 {
+    padding-bottom: 43px;
+    box-sizing: border-box;
+  }
+  .heading2 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frameParent2 {
+    gap: 29px;
+  }
+  .description {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .frameParent4 {
+    flex-wrap: wrap;
+  }
+  .giftCardBalance,
+  .spreadTheWord {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

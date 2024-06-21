@@ -1,0 +1,619 @@
+.terms-and-conditions {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.page-title1 {
+  align-self: stretch;
+  background-color: #eee;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lilylamb-kids-we3 {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.information-we-collect {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.information-we-collect-container {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.about-giftnest,
+.giftnest-is-a,
+.information-we-collect-container {
+  align-self: stretch;
+  position: relative;
+}
+.about-giftnest {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.giftnest-is-a {
+  font-size: 16px;
+  line-height: 135%;
+}
+.about-giftnest-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.acceptance-of-terms,
+.by-using-our {
+  align-self: stretch;
+  position: relative;
+}
+.acceptance-of-terms {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.by-using-our {
+  font-size: 16px;
+  line-height: 135%;
+}
+.acceptance-of-terms-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.changes-to-terms,
+.we-may-revise {
+  align-self: stretch;
+  position: relative;
+}
+.changes-to-terms {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.we-may-revise {
+  font-size: 16px;
+  line-height: 135%;
+}
+.changes-to-terms-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.changes-to-terms-parent,
+.company-info,
+.information-we-collect-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.company-info {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.information-we-collect-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.user-responsibilities1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.compliance-with-laws,
+.user-responsibilities {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.compliance-with-laws {
+  line-height: 29px;
+  font-weight: 400;
+}
+.you-agree-to {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.compliance-with-laws-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.prohibited-activities {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line4,
+.you-must-not {
+  margin: 0;
+}
+.attempting-to-gain,
+.engaging-in-fraudulent,
+.interfering-with-or {
+  margin-bottom: 0;
+}
+.engaging-in-fraudulent-or-dece {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.you-must-not-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.prohibited-activities-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.frame-parent1,
+.prohibited-activities-parent,
+.user-responsibilities-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.user-responsibilities-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.disclaimers-and-limitation-of {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.disclaimers-and-limitation-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.disclaimers,
+.our-services-are {
+  align-self: stretch;
+  position: relative;
+}
+.disclaimers {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.our-services-are {
+  font-size: 16px;
+  line-height: 135%;
+}
+.disclaimers-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.limitation-of-liability {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line5,
+.to-the-fullest {
+  margin: 0;
+}
+.any-bugs-viruses,
+.any-interruption-or,
+.any-unauthorized-access,
+.your-use-of {
+  margin-bottom: 0;
+}
+.your-use-of-or-inability-to-us {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.to-the-fullest-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.limitation-of-liability-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.disclaimers-and-limitation-of-parent,
+.frame-parent2,
+.limitation-of-liability-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent2 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.disclaimers-and-limitation-of-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.indemnification,
+.indemnification1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.indemnification1 {
+  padding-left: 43px;
+}
+.indemnification {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.you-agree-to1 {
+  position: relative;
+  line-height: 135%;
+}
+.you-agree-to-indemnify-defend-wrapper,
+.you-agree-to1 {
+  align-self: stretch;
+}
+.indemnity,
+.indemnity-content,
+.you-agree-to-indemnify-defend-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.indemnity-content {
+  align-self: stretch;
+  font-size: 16px;
+}
+.indemnity {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.miscellaneous1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.entire-agreement,
+.miscellaneous {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 700;
+  font-family: inherit;
+}
+.entire-agreement {
+  line-height: 29px;
+  font-weight: 400;
+}
+.these-terms-constitute {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.entire-agreement-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.if-any-provision,
+.severability {
+  align-self: stretch;
+  position: relative;
+}
+.severability {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.if-any-provision {
+  font-size: 16px;
+  line-height: 22px;
+}
+.severability-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.no-waiver-of,
+.waiver {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.no-waiver-of {
+  font-size: 16px;
+  line-height: 135%;
+}
+.waiver-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.assignment,
+.you-may-not {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.you-may-not {
+  font-size: 16px;
+  line-height: 135%;
+}
+.assignment-parent {
+  align-self: stretch;
+  gap: 16px;
+}
+.assignment-parent,
+.frame-parent3,
+.miscellaneous-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.miscellaneous-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information6,
+.contact-information7 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information7 {
+  padding-left: 43px;
+}
+.contact-information6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.address-123-main3,
+.blank-line6,
+.by-using-giftnests,
+.email-supportgiftnestcom3,
+.giftnest-customer-support3,
+.if-you-have3,
+.phone-1-800-123-45673 {
+  margin: 0;
+}
+.if-you-have-container3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.contact-details1,
+.contact-information-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-details1 {
+  align-self: stretch;
+  font-size: 16px;
+}
+.contact-information-parent1 {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.terms-content,
+.termsandconditionspage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.terms-content {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.termsandconditionspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1275px) {
+  .terms-content {
+    gap: 32px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .terms-and-conditions {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .information-we-collect-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .information-we-collect-parent {
+    gap: 16px;
+  }
+  .user-responsibilities {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .user-responsibilities-parent {
+    gap: 16px;
+  }
+  .disclaimers-and-limitation-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .disclaimers-and-limitation-of-parent {
+    gap: 16px;
+  }
+  .indemnification {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .indemnity {
+    gap: 16px;
+  }
+  .miscellaneous {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .miscellaneous-parent {
+    gap: 16px;
+  }
+  .contact-information6 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .contact-information-parent1 {
+    gap: 16px;
+  }
+  .terms-content {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .terms-and-conditions {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .about-giftnest,
+  .acceptance-of-terms,
+  .assignment,
+  .changes-to-terms,
+  .compliance-with-laws,
+  .contact-information6,
+  .disclaimers,
+  .disclaimers-and-limitation-container,
+  .entire-agreement,
+  .indemnification,
+  .information-we-collect-container,
+  .limitation-of-liability,
+  .miscellaneous,
+  .prohibited-activities,
+  .severability,
+  .user-responsibilities,
+  .waiver {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

@@ -1,0 +1,898 @@
+.heading2 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.container3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 38px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.heading3 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.container1,
+.container2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.container2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 26px;
+}
+.container1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 56px;
+  box-sizing: border-box;
+}
+.cardsItemsChild {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cardsItems,
+.overlayshadow {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.overlayshadow {
+  box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.4);
+  border-radius: 16px;
+  background-color: transparent;
+  overflow: hidden;
+  z-index: 1;
+}
+.cardsItems {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sony {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 36px;
+}
+.container4 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp {
+  width: 132.8px;
+  height: 18px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cardsRow,
+.cardsRow1,
+.cardsRow2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardsRow2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow,
+.cardsRow1 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.cardsRowChild {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.verizon {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 54px;
+}
+.container5 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp1 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.containerParent {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow3,
+.cardsRowInner,
+.containerParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardsRowInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 16px;
+}
+.cardsRow3 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 236px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.cardsRowItem {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vodafone {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 69px;
+}
+.container6 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp2 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow4,
+.containerGroup,
+.frameDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerGroup {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow4,
+.frameDiv {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow4 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 472px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.groupIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nike {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 33px;
+}
+.container7 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp3 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow5,
+.cardsRowInner1,
+.containerContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerContainer {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow5,
+.cardsRowInner1 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow5 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.cardsRowChild1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.porsche {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 58px;
+}
+.container8 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp4 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow6,
+.cardsRowInner2,
+.containerParent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerParent1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow6,
+.cardsRowInner2 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow6 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 236px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.cardsRowChild2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cocaCola {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 75px;
+}
+.container9 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp5 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow7,
+.cardsRowInner3,
+.containerParent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerParent2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow7,
+.cardsRowInner3 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow7 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 472px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.cardsRowChild3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cisco {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 51px;
+}
+.container10 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp6 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow8,
+.cardsRowInner4,
+.containerParent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerParent3 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow8,
+.cardsRowInner4 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow8 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 708px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.cardsRowChild4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fedex {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 44px;
+}
+.container11 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp7 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow9,
+.cardsRowInner5,
+.containerParent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerParent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow9,
+.cardsRowInner5 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow9 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 486px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.cardsRowChild5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.unitedHealthcare {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+}
+.container12 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 38px 0.5px 0;
+  box-sizing: border-box;
+}
+.membersEarnUp8 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow10,
+.cardsRowInner6,
+.containerParent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerParent5 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow10,
+.cardsRowInner6 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow10 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 486px;
+  left: 236px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.overlayshadowIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 16px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.visaGiftCard {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 114px;
+}
+.container13 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp9 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.cardsRow11,
+.cardsRowInner7,
+.containerParent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.containerParent6 {
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.cardsRow11,
+.cardsRowInner7 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsRow11 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 486px;
+  left: 472px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  gap: 12px;
+}
+.wayfairsvgIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.wayfair {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 56px;
+}
+.container14 {
+  align-self: stretch;
+  height: 21px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+}
+.membersEarnUp10 {
+  width: 132.8px;
+  position: relative;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: Poppins;
+  color: #357a38;
+  display: flex;
+  align-items: center;
+}
+.containerParent7 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.cardsRowInner8 {
+  width: 188px;
+  flex-direction: row;
+  padding: 0 8px;
+  box-sizing: border-box;
+}
+.cardsGrid,
+.cardsRow12,
+.cardsRowInner8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardsRow12 {
+  height: 211px;
+  width: 204px;
+  margin: 0 !important;
+  position: absolute;
+  top: 486px;
+  left: 708px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 0 0 16px;
+  box-sizing: border-box;
+  gap: 12px;
+}
+.cardsGrid {
+  align-self: stretch;
+  height: 697px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 32px 30.7px;
+  text-align: left;
+  font-size: 16px;
+}
+.button {
+  align-self: stretch;
+  width: 431px;
+  max-width: 100%;
+  cursor: pointer;
+}
+.container,
+.container15 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.container15 {
+  align-self: stretch;
+  height: 54px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+}
+.container {
+  width: 912px;
+  margin: 0 !important;
+  position: absolute;
+  top: 679.4px;
+  left: 504px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 48px 0;
+  gap: 48px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: "Circular Std";
+}
+@media screen and (max-width: 1050px) {
+  .heading2 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading2 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .heading3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

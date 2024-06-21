@@ -1,0 +1,14 @@
+.content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 48px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 18px;
+  color: #5a5a5a;
+  font-family: "Circular Std";
+}

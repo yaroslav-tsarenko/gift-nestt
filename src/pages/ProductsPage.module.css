@@ -1,0 +1,201 @@
+.cardBonusChild {
+  height: 43px;
+  width: 62px;
+  position: relative;
+}
+.buyA100 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.15em;
+  line-height: 150%;
+  text-transform: uppercase;
+}
+.cardBonus,
+.nikeGift {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.nikeGift {
+  flex: 1;
+  flex-direction: column;
+  padding: 11px 0 0;
+  min-width: 429px;
+}
+.cardBonus {
+  align-self: stretch;
+  background-color: #263238;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 8px 575px;
+  gap: 48px;
+}
+.brinkerInternationalAnd,
+.seeBackOf {
+  margin: 0;
+}
+.brinkerInternationalAndContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.dunkinTerms {
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  color: #1c1c1c;
+}
+.affiliated,
+.sponsor {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.sponsor {
+  width: 1535px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.affiliated {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 16px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #5a5a5a;
+  font-family: "Circular Std";
+}
+.dunkinIsNot,
+.homeDepotTerms {
+  position: relative;
+  line-height: 22px;
+}
+.dunkinIsNot {
+  align-self: stretch;
+}
+.homeDepotTerms {
+  width: 288px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+}
+.affiliated1,
+.dunkinIsNotASponsorOfThParent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.dunkinIsNotASponsorOfThParent {
+  width: 1535px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.affiliated1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 16px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #5a5a5a;
+}
+.disclaimerTheHome,
+.macysTerms {
+  position: relative;
+  line-height: 22px;
+}
+.disclaimerTheHome {
+  align-self: stretch;
+}
+.macysTerms {
+  font-size: 18px;
+}
+.legalDisclaimerNo {
+  align-self: stretch;
+}
+.legalDisclaimerNo,
+.targetTerms,
+.theBullseyeDesign {
+  position: relative;
+  line-height: 22px;
+}
+.targetTerms {
+  font-size: 18px;
+}
+.theBullseyeDesign {
+  align-self: stretch;
+}
+.vanillaVisaEgift {
+  width: 361px;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.disclaimerTheHomeDepotIsParent {
+  width: 1535px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.footer,
+.productspage {
+  display: flex;
+  align-items: flex-start;
+  font-family: "Circular Std";
+}
+.footer {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #5a5a5a;
+}
+.productspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
+@media screen and (max-width: 1625px) {
+  .nikeGift {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .cardBonus {
+    padding-left: 287px;
+    padding-right: 287px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .cardBonus {
+    gap: 24px;
+    padding-left: 143px;
+    padding-right: 143px;
+    box-sizing: border-box;
+  }
+}
